@@ -4,9 +4,9 @@ public class BooleanExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		boolean train = true;
+		boolean stop = true;
 		
-		if(train = false) {
+		if(stop) {
 			System.out.println("정지");
 			}
 			else {
