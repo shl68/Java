@@ -11,10 +11,9 @@ public class SplitExample
         System.out.println("학과 : " + tokens[2]);
         System.out.println("성별 : " + tokens[3]);
 
-        for(int i=0; i<tokens.length; i++)
-
-        {
+        for (int i = 0; i < tokens.length; i++) {
             System.out.println(tokens[i]);
         }
     }
+
 }
